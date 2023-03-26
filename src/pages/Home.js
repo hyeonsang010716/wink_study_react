@@ -26,7 +26,7 @@ const Home = () => {
                     <button style={{width:200 , height: 50, fontWeight:'bolder' , background:"Aqua" , marginTop:20  }}    onClick={goHard}>Hard 모드</button> 
                 </li>
                 <li>
-                    <button style={{width:200 , height: 50, fontWeight:'bolder' , background:"Aqua" , marginTop:20  }}    onClick={goAbout}>개발중..</button>
+                    <button style={{width:200 , height: 50, fontWeight:'bolder' , background:"Aqua" , marginTop:20  }}    onClick={goAbout}>API..?</button>
                 </li>
                 <li>
                     <button style={{width:200 , height: 50, fontWeight:'bolder' , background:"Aqua" , marginTop:20  }}    onClick={goArticle}>환경설정</button>
